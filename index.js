@@ -18,7 +18,7 @@ App.use("/post",Rout)
 
 
 App.listen(PORT, () => {
-  console.log(`Server Listinig to Port : ${PORT}`);
+  console.log(`Server Listinig to Port by dhamu: ${PORT}`);
 });
 
 
